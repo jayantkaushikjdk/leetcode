@@ -22,10 +22,12 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/jayantkaushikjdk/leetcode/tree/master/0650-2-keys-keyboard) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/jayantkaushikjdk/leetcode/tree/master/0650-2-keys-keyboard) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
