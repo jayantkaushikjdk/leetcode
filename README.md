@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/jayantkaushikjdk/leetcode/tree/master/0890-lemonade-change) |
 | [1240-stone-game-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/1240-stone-game-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jayantkaushikjdk/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/jayantkaushikjdk/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/jayantkaushikjdk/leetcode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
