@@ -6,6 +6,7 @@
 | ------- |
 | [0890-lemonade-change](https://github.com/jayantkaushikjdk/leetcode/tree/master/0890-lemonade-change) |
 | [1240-stone-game-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/jayantkaushikjdk/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jayantkaushikjdk/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/0264-ugly-number-ii) |
+| [1325-path-with-maximum-probability](https://github.com/jayantkaushikjdk/leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -78,4 +80,12 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/jayantkaushikjdk/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jayantkaushikjdk/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/jayantkaushikjdk/leetcode/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/jayantkaushikjdk/leetcode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
