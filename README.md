@@ -29,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jayantkaushikjdk/leetcode/tree/master/0002-add-two-numbers) |
 | [0264-ugly-number-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/0264-ugly-number-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/jayantkaushikjdk/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jayantkaushikjdk/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -103,4 +104,12 @@
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jayantkaushikjdk/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/jayantkaushikjdk/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/jayantkaushikjdk/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
