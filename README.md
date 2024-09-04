@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/jayantkaushikjdk/leetcode/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/jayantkaushikjdk/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/jayantkaushikjdk/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jayantkaushikjdk/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/0264-ugly-number-ii) |
+| [0906-walking-robot-simulation](https://github.com/jayantkaushikjdk/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jayantkaushikjdk/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jayantkaushikjdk/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Tree
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/jayantkaushikjdk/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/jayantkaushikjdk/leetcode/tree/master/0906-walking-robot-simulation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jayantkaushikjdk/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jayantkaushikjdk/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Greedy
