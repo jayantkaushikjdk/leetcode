@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jayantkaushikjdk/leetcode/tree/master/0054-spiral-matrix) |
 | [0890-lemonade-change](https://github.com/jayantkaushikjdk/leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/jayantkaushikjdk/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/1240-stone-game-ii) |
@@ -73,6 +74,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jayantkaushikjdk/leetcode/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jayantkaushikjdk/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/jayantkaushikjdk/leetcode/tree/master/0906-walking-robot-simulation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jayantkaushikjdk/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -109,6 +111,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jayantkaushikjdk/leetcode/tree/master/0054-spiral-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jayantkaushikjdk/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Linked List
 |  |
