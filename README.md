@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jayantkaushikjdk/leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/jayantkaushikjdk/leetcode/tree/master/0054-spiral-matrix) |
 | [0890-lemonade-change](https://github.com/jayantkaushikjdk/leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/jayantkaushikjdk/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -15,6 +16,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jayantkaushikjdk/leetcode/tree/master/0001-two-sum) |
 | [0264-ugly-number-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/0264-ugly-number-ii) |
 | [0906-walking-robot-simulation](https://github.com/jayantkaushikjdk/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jayantkaushikjdk/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
