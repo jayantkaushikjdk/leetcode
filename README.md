@@ -13,6 +13,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/jayantkaushikjdk/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/jayantkaushikjdk/leetcode/tree/master/2155-find-missing-observations) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jayantkaushikjdk/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2411-spiral-matrix-iv](https://github.com/jayantkaushikjdk/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jayantkaushikjdk/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jayantkaushikjdk/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/jayantkaushikjdk/leetcode/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/jayantkaushikjdk/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -121,12 +123,14 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/jayantkaushikjdk/leetcode/tree/master/0054-spiral-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jayantkaushikjdk/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/jayantkaushikjdk/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jayantkaushikjdk/leetcode/tree/master/0002-add-two-numbers) |
 | [0725-split-linked-list-in-parts](https://github.com/jayantkaushikjdk/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/jayantkaushikjdk/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/jayantkaushikjdk/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
