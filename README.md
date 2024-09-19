@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jayantkaushikjdk/leetcode/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jayantkaushikjdk/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/jayantkaushikjdk/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/jayantkaushikjdk/leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -56,6 +57,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/jayantkaushikjdk/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/jayantkaushikjdk/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/jayantkaushikjdk/leetcode/tree/master/0664-strange-printer) |
@@ -78,6 +80,7 @@
 ## String
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/jayantkaushikjdk/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/jayantkaushikjdk/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/jayantkaushikjdk/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jayantkaushikjdk/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -152,6 +155,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jayantkaushikjdk/leetcode/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jayantkaushikjdk/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -177,4 +181,8 @@
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/jayantkaushikjdk/leetcode/tree/master/0539-minimum-time-difference) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/jayantkaushikjdk/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
