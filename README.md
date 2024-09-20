@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jayantkaushikjdk/leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/jayantkaushikjdk/leetcode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/0264-ugly-number-ii) |
 | [0906-walking-robot-simulation](https://github.com/jayantkaushikjdk/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jayantkaushikjdk/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jayantkaushikjdk/leetcode/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/jayantkaushikjdk/leetcode/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jayantkaushikjdk/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/jayantkaushikjdk/leetcode/tree/master/0539-minimum-time-difference) |
@@ -198,4 +200,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jayantkaushikjdk/leetcode/tree/master/0214-shortest-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/jayantkaushikjdk/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
