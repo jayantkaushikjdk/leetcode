@@ -18,6 +18,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/jayantkaushikjdk/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/jayantkaushikjdk/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jayantkaushikjdk/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/jayantkaushikjdk/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jayantkaushikjdk/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jayantkaushikjdk/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jayantkaushikjdk/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2755-extra-characters-in-a-string](https://github.com/jayantkaushikjdk/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0650-2-keys-keyboard](https://github.com/jayantkaushikjdk/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/jayantkaushikjdk/leetcode/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/1240-stone-game-ii) |
+| [2755-extra-characters-in-a-string](https://github.com/jayantkaushikjdk/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -91,6 +94,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/jayantkaushikjdk/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jayantkaushikjdk/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jayantkaushikjdk/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2755-extra-characters-in-a-string](https://github.com/jayantkaushikjdk/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,4 +213,5 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/jayantkaushikjdk/leetcode/tree/master/0386-lexicographical-numbers) |
+| [2755-extra-characters-in-a-string](https://github.com/jayantkaushikjdk/leetcode/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
