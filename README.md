@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/jayantkaushikjdk/leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/jayantkaushikjdk/leetcode/tree/master/0054-spiral-matrix) |
 | [0539-minimum-time-difference](https://github.com/jayantkaushikjdk/leetcode/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/jayantkaushikjdk/leetcode/tree/master/0729-my-calendar-i) |
 | [0890-lemonade-change](https://github.com/jayantkaushikjdk/leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/jayantkaushikjdk/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/1240-stone-game-ii) |
@@ -190,6 +191,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/jayantkaushikjdk/leetcode/tree/master/0729-my-calendar-i) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jayantkaushikjdk/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
@@ -222,4 +224,16 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jayantkaushikjdk/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/jayantkaushikjdk/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jayantkaushikjdk/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/jayantkaushikjdk/leetcode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/jayantkaushikjdk/leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/jayantkaushikjdk/leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
