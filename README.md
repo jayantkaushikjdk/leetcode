@@ -22,6 +22,7 @@
 | [2411-spiral-matrix-iv](https://github.com/jayantkaushikjdk/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jayantkaushikjdk/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jayantkaushikjdk/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/jayantkaushikjdk/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/jayantkaushikjdk/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jayantkaushikjdk/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
@@ -36,6 +37,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jayantkaushikjdk/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jayantkaushikjdk/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jayantkaushikjdk/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/jayantkaushikjdk/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/jayantkaushikjdk/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jayantkaushikjdk/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Tree
@@ -202,6 +204,7 @@
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/jayantkaushikjdk/leetcode/tree/master/0539-minimum-time-difference) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/jayantkaushikjdk/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Memoization
 |  |
 | ------- |
@@ -222,6 +225,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jayantkaushikjdk/leetcode/tree/master/0202-happy-number) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/jayantkaushikjdk/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Trie
 |  |
 | ------- |
