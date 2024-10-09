@@ -108,6 +108,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/jayantkaushikjdk/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/jayantkaushikjdk/leetcode/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jayantkaushikjdk/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/jayantkaushikjdk/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jayantkaushikjdk/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/jayantkaushikjdk/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jayantkaushikjdk/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -140,12 +141,14 @@
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/jayantkaushikjdk/leetcode/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/jayantkaushikjdk/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jayantkaushikjdk/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/jayantkaushikjdk/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jayantkaushikjdk/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/jayantkaushikjdk/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jayantkaushikjdk/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jayantkaushikjdk/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Depth-First Search
