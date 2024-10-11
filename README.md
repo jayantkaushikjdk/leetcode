@@ -19,6 +19,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/jayantkaushikjdk/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/jayantkaushikjdk/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jayantkaushikjdk/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jayantkaushikjdk/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jayantkaushikjdk/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/jayantkaushikjdk/leetcode/tree/master/2155-find-missing-observations) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jayantkaushikjdk/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -41,6 +42,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jayantkaushikjdk/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jayantkaushikjdk/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jayantkaushikjdk/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jayantkaushikjdk/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jayantkaushikjdk/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jayantkaushikjdk/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/jayantkaushikjdk/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -87,6 +89,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/0264-ugly-number-ii) |
 | [1325-path-with-maximum-probability](https://github.com/jayantkaushikjdk/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jayantkaushikjdk/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2803-modify-graph-edge-weights](https://github.com/jayantkaushikjdk/leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Prefix Sum
 |  |
