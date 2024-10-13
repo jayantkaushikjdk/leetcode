@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/jayantkaushikjdk/leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/jayantkaushikjdk/leetcode/tree/master/0054-spiral-matrix) |
 | [0539-minimum-time-difference](https://github.com/jayantkaushikjdk/leetcode/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jayantkaushikjdk/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/jayantkaushikjdk/leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/jayantkaushikjdk/leetcode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/jayantkaushikjdk/leetcode/tree/master/0890-lemonade-change) |
@@ -38,6 +39,7 @@
 | [0202-happy-number](https://github.com/jayantkaushikjdk/leetcode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/0264-ugly-number-ii) |
 | [0567-permutation-in-string](https://github.com/jayantkaushikjdk/leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jayantkaushikjdk/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0906-walking-robot-simulation](https://github.com/jayantkaushikjdk/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jayantkaushikjdk/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jayantkaushikjdk/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/0264-ugly-number-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jayantkaushikjdk/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1325-path-with-maximum-probability](https://github.com/jayantkaushikjdk/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jayantkaushikjdk/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jayantkaushikjdk/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -147,6 +150,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jayantkaushikjdk/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/jayantkaushikjdk/leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jayantkaushikjdk/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jayantkaushikjdk/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -232,6 +236,7 @@
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/jayantkaushikjdk/leetcode/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jayantkaushikjdk/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jayantkaushikjdk/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jayantkaushikjdk/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Memoization
@@ -287,6 +292,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/jayantkaushikjdk/leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jayantkaushikjdk/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Monotonic Stack
 |  |
 | ------- |
