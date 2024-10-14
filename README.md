@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jayantkaushikjdk/leetcode/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jayantkaushikjdk/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/jayantkaushikjdk/leetcode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/jayantkaushikjdk/leetcode/tree/master/0264-ugly-number-ii) |
 | [0567-permutation-in-string](https://github.com/jayantkaushikjdk/leetcode/tree/master/0567-permutation-in-string) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jayantkaushikjdk/leetcode/tree/master/0002-add-two-numbers) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jayantkaushikjdk/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0725-split-linked-list-in-parts](https://github.com/jayantkaushikjdk/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/jayantkaushikjdk/leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/jayantkaushikjdk/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -261,6 +263,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/jayantkaushikjdk/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/jayantkaushikjdk/leetcode/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/jayantkaushikjdk/leetcode/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/jayantkaushikjdk/leetcode/tree/master/1923-sentence-similarity-iii) |
